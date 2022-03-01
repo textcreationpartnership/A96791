@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Witnesses produced against Mr. John Shaw of Hull, attesting the publike charge against him, and much more. As, to be [brace] a notable turncoat and time-server; most scandalous in his actions; an enemy to good men; and a disquieter of the peace of the place, &amp;c. Serving for the undeceiving of some, informing of others, and satisfying of all, as to the condition of the aforesaid M. Shaw. / By One who hopes and waits, to see corrupt men, and unjust things, less countenanced, and more suppressed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96791</idno>
+            <idno type="STC">Wing W3215A</idno>
+            <idno type="STC">ESTC R186779</idno>
+            <idno type="EEBO-CITATION">45578522</idno>
+            <idno type="OCLC">ocm 45578522</idno>
+            <idno type="VID">172432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2629:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Witnesses produced against Mr. John Shaw of Hull, attesting the publike charge against him, and much more. As, to be [brace] a notable turncoat and time-server; most scandalous in his actions; an enemy to good men; and a disquieter of the peace of the place, &amp;c. Serving for the undeceiving of some, informing of others, and satisfying of all, as to the condition of the aforesaid M. Shaw. / By One who hopes and waits, to see corrupt men, and unjust things, less countenanced, and more suppressed.</title>
+                  <author>One who hopes and waits, to see corrupt men, and unjust things, less countenanced, and more suppressed.</author>
+                  <author>Shawe, John, 1608-1672.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shawe, John, 1608-1672.</term>
+               <term>Canne, John, d. 1667?</term>
+               <term>Puritans --  Clergy.</term>
+               <term>Hull (England) --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172432:1" rendition="simple:additions"/>
+            <p>Witneſſes produced AGAINST Mr. JOHN SHAW of <hi>Hull,</hi> Atteſting the Publike Charge againſt him, and much more.</p>
+            <p>AS, To be
+<list>
+                  <item>A notable Turncoat and Time-ſerver;</item>
+                  <item>Moſt ſcandalous in his actions;</item>
+                  <item>An enemy to good men; <hi>And</hi>
+                  </item>
+                  <item>A diſquieter of the peace of the place, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>SERVING For the Undeceiving of ſome, Informing of others, and ſatisfying of all, as to the condition of the aforeſaid M. <hi>SHAW.</hi>
+            </p>
+            <p>By one who hopes and waits, to ſee Corrupt men, and Unjuſt things, leſs countenanced, and more ſuppreſſed.</p>
+            <q>
+               <bibl>PROV. 11. 10.</bibl> 
+               <p>When it goeth well with the righteous, the city rejoyceth: and when the wicked periſh, there is ſhouting.</p>
+            </q>
+            <p>Printed at <hi>London,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172432:2"/>
+            <pb n="1" facs="tcp:172432:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hat thou mayſt underſtand what neceſſity there was of pub<g ref="char:EOLhyphen"/>liſhing theſe Papers which by Providence came to my hands, thou art deſired to take notice that Mr.</hi> John Canne, <hi>in a book intituled</hi> A voice from the Temple, <hi>hath in a mar<g ref="char:EOLhyphen"/>ginal note affirmed Mr.</hi> Shaw <hi>to be</hi> a Turncoat <hi>and</hi> Time-ſerver, <hi>a corrupt man, &amp;c. Whereupon Mr.</hi> Shaw <hi>went to ſome in Authority, and made his complaint to them. What ſatisfaction Mr.</hi> Shaw <hi>hath had in private, it is not known; onely he reports that he is quitted of the Crimes, reputed a very honeſt man, and Mr.</hi> Canne <hi>caſt and loſt in his reputation with his friends at Court. This, and much more then this, hath Mr.</hi> Shaw <hi>and his adherents given out, in Town and City, with unmeaſurable boaſting and inſulation.</hi>
+            </p>
+            <p>
+               <hi>Now in regard (not in reference to Mr.</hi> Canne, <hi>but) that the truth may no longer ſuffer, honeſt and good men be abuſed, and thoſe who are corrupt and naught, hardned in their evil ways; I take it my duty to publiſh theſe things, as knowing no other way (as the caſe now ſtands) to have truth and innocency cleared and juſtified, and the mouth of iniquity ſtopped.</hi>
+            </p>
+            <p>
+               <hi>And howſoever particular perſons are here mentioned, as M.</hi> Canne <hi>and M.</hi> Shaw; <hi>yet the truth is, the matter is of publike concernment, and takes in, as the intereſt of honeſt men, the Cauſe of Chriſt and his Churches in this Nation, (to which M.</hi> Shaw <hi>hath been an old profeſſed enemy:) ſo it is to diſco<g ref="char:EOLhyphen"/>ver and break in pieces a ſelf-intereſt, and corrupt deſigne, which hath been too long carried on by a late prevailing party, in oppreſſing the poor, and ob<g ref="char:EOLhyphen"/>ſtructing juſtice.</hi>
+            </p>
+            <p>
+               <hi>As for M.</hi> Shaw, <hi>I pity him, and pray for him, and ſhall be glad if theſe things which he himſelf hath occaſioned to be publiſhed, may do his ſoul good. But I ſhall not keep the Reader any longer from the particulars: onely let him obſerve them well, and then judge.</hi>
+            </p>
+            <p>A Letter written by Mr. <hi>Shaw,</hi> to his good Lord and Maſter the <hi>Arch<g ref="char:EOLhyphen"/>biſhop of</hi> York. The Original is in <hi>Hull</hi> to be ſeen, under his own hand and ſeal; the ſuperſcription thus:</p>
+            <floatingText type="letter">
+               <body>
+                  <head>For the moſt Reverend Father in God, the Lord Archbiſhop of <hi>York</hi> his Grace, Primate of England, and Metropolitane, theſe preſent.</head>
+                  <head type="sub">The Letter word for word, followeth.</head>
+                  <pb n="2" facs="tcp:172432:3"/>
+                  <opener>
+                     <salute>Moſt Reverend Father in God:</salute>
+                  </opener>
+                  <p>MY own unfitneſs at preſent to travel, joyned with ſome preſſing buſi<g ref="char:EOLhyphen"/>neſs of my own, compel me to this boldneſs, and (except your Grace pardon it) unmannerly preſumption, thus to importune your Grace by a Meſſenger with this my Petition. I had reſolved ere now, according to my duty, to have waited on your Grace; but ſtill hoped for more peaceable times to do it in. In the interim, I am informed that the city of <hi>York</hi> preſented a Petition to the Lord Keeper on my behalf, for a pre<g ref="char:EOLhyphen"/>ſentation to the Rectory of <hi>Alhallows</hi> in <hi>York;</hi> and another to your Grace, for your conſent to their humble deſire, your approbation of me, and your Graces Certificate accordingly to the Lord Keeper. And that your Grace would be pleaſed to excuſe my neceſſitated abſence, to par<g ref="char:EOLhyphen"/>don this my boldneſs in ſending this Meſſenger, for the ſpeedy ſatisfaction of the ſaid honorable Lord Keeper; and to afford to me your Certificate to my Lord Keeper, is my <note n="*" place="margin">Who but a Time-ſerver would beg thus <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> a Benefice? <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e <hi>1 Sam. 2. 36.</hi>
+                     </note> humble ſuit at preſent. I know innocencie it ſelf is not free from accuſation; therefore may I be ſubject to ſlanders. <note n="*" place="margin">Note how he ſuffers in his good name, and for what.</note> I hear ſome have preſented me to your Grace as no friend to the Kings Majeſtie or Epiſcopacie: BOTH WHICH ARE SO NOTORI<g ref="char:EOLhyphen"/>OUSLY FALSE, that whoever reports them, either miſtook me or their own conſcience: which thing, if need were, THE WHOLE <note n="*" place="margin">
+                        <hi>And ſo they will, as to be the greateſt Turn coat in Yorkſhire, inſo<g ref="char:EOLhyphen"/>much as it is be<g ref="char:EOLhyphen"/>come a Proverb,</hi> John Shaw the Turn-coat.</note> COUN<g ref="char:EOLhyphen"/>TRY WILL EVIDENCE AND DECLARE. Thus in all humili<g ref="char:EOLhyphen"/>ty and duty (though in haſte) relying upon your Graces clemency and bounty, and encouraged by your many wonted favours to the Clergie and Learning it ſelf; I humbly crave your approbation and certificate by this bearer, and aſſuredly <note n="*" place="margin">No lye.</note> am</p>
+                  <closer>
+                     <dateline>Rotheram, <date>Auguſt 22. 1642.</date>
+                     </dateline>
+                     <signed>Your Graces moſt faithful ſervant, and daily Orator, <hi>John Shaw.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>I ſhall not comment on the Letter. M.</hi> Shaw <hi>was true to the Proverb, and hath learn'd it by heart.</hi>
+            </p>
+            <lg>
+               <l>Dum fueris Romae, Romano vivito more:</l>
+               <l>Si fueris alibi, vivito ficut ibi.</l>
+            </lg>
+            <p>
+               <hi>But this was</hi> (<note n="*" place="margin">So he told his Excellencie.</note> 
+               <hi>he ſaith) in the days of his ignorance, and when he knew no better. And in this we may believe him: for had he known that Monarchie and Epiſcopacie would have been ſo ſoon laid aſide, he would not have acted ſo baſely and groſly for them as he did, ſpecially the later, as appears by that which follows.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I Cannot deny your deſire of the diſcovery of my knowledge concerning M. <hi>John Shaw,</hi> though I had rather have reſerved it till I was called thereto.</p>
+                  <p>I have known him about thirty yeers, before he was a Preacher; and I have ſeen ſome of his ways, and heard of many at that time along. He
+<pb n="3" facs="tcp:172432:3"/>
+was never to my knowledge lookt upon by any that were truely godly, as a man of any conſideration, but rather an enemy to the Truth, and perſecutor of it, and the ſincere profeſſors of it: Unleſs for a while he did deceive a few of well-minded people at <hi>York,</hi> with his fair (though deceitful) appearances. He is altogether lookt upon in the Weſt parts of <hi>York</hi> ſhire, as a coverous and worldly man, cruel with his <note n="*" place="parend">
+                        <hi>There is mention made in our Chronicles of one</hi> John Shaw <hi>Clerk, for all the world like him. It is worth the while to compare theſe two Time-ſervers together. See</hi> Speed, <hi>p.</hi> 705. Book of Martyrs.</note> Tenants: an oppreſſor and hard dealer with thoſe he hath had to do, either in debts of his own, or of ſuch as his father had left him.</p>
+                  <p>He was always a conformable man in the days of the Biſhops, and a pleader for the <hi>Innocent Ceremonies</hi> (as he uſes to call them) and a ſharp inveigher againſt tender-ſpirited men in thoſe days, who did refuſe conformity and ſubſcription to them.</p>
+                  <p>I have not known him by any, either of them that were within, or of them that were without, lookt upon as a man of a good and <note n="†" place="margin">Let thoſe to whom he is re<g ref="char:EOLhyphen"/>ported to be an honeſt man, con<g ref="char:EOLhyphen"/>ſider the per<g ref="char:EOLhyphen"/>ſons who they are that give on ſuch a report of him.</note> pure con<g ref="char:EOLhyphen"/>ſcience; but always a complyer to the ruling times, and to great men, of what condition ſoever; and with men of Religion, for his own world<g ref="char:EOLhyphen"/>ly advantage, <hi>&amp;c.</hi>
+                  </p>
+                  <p>This is what at preſent I can preſent unto you, and ſhall be ready to diſcover particulars as to the making good of theſe in due time, when I ſhall be called thereunto, and in the while am</p>
+                  <closer>
+                     <signed>Your humble ſervant, <hi>R. A.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>We have his character here in brief, ſo clearly and fully related, as I ſhall adde nothing to it; onely there are hundreds which know the ſame to be true, and are ready to bear witneſs to it of their own knowledge. The</hi> Guiſes <hi>took the Romiſh part, not for any Religion which they cared for, but being the ſtronger ſide, by which they might get both credit, honour, preferment: ſo M.</hi> Shaw <note n="*" place="margin">I have heard ſome who know him well to ſay, that if it were to read the Maſs<g ref="char:EOLhyphen"/>book, or Alco<g ref="char:EOLhyphen"/>ran, he would do it for pro<g ref="char:EOLhyphen"/>fit, ſuch is the covetouſneſs of his heart.</note> 
+               <hi>all along hath run with the times, right or wrong: like a flying fiſh, if pre<g ref="char:EOLhyphen"/>ferment be among the birds, he is ready to flee after it, with the birds; and if it be among the fiſhes, then among the fiſhes he will ſwim after it. But to proceed.</hi>
+            </p>
+            <p>
+               <hi>There was publiſhed in print a ſcandalous pamphlet againſt M.</hi> John Canne, <hi>intituled,</hi> The humble Petition of divers well affected perſons within the Town of <hi>Kingſton</hi> upon <hi>Hull: the which being ſeen by the Officers of the Ga<g ref="char:EOLhyphen"/>ſon there, they immediately drew up this Petition, and ſent the ſame to his Ex<g ref="char:EOLhyphen"/>cellencie, in the words following.</hi>
+            </p>
+            <pb n="4" facs="tcp:172432:4"/>
+            <floatingText type="letter">
+               <body>
+                  <head>To his Excellencie the Lord General <hi>Cromwel: The humble Petition of the Officers of the Cariſon, and divers well-affected perſons in the Town of</hi> Kingſton <hi>upon</hi> Hull,</head>
+                  <opener>SHEWETH,</opener>
+                  <p>THat your Petitioners having lately ſeen in this place a Petition in print, intimating, in the names of divers pretended well affected per<g ref="char:EOLhyphen"/>ſons, a grateful acknowledgement of your Excellencies ſucceſsful ſor<g ref="char:EOLhyphen"/>vices; further intimating provocations put on them, for the vindication of their Paſtor M. <hi>Shaw,</hi> againſt the accuſations of M. <hi>John Canne,</hi> whoſe pains, approved fidelity, and experienced piety, ſhould we not endea<g ref="char:EOLhyphen"/>vour to juſtifie, and witneſs with and to the world, we ſhould not onely ſhew our ſelves ſlothful, in the ſilent ſuffering of Religion, honeſty, and innocencie to be traduced; but alſo fail in the diſcharge of our duties to your Excellencie, to whom we owe an account of our experiences in the particulars of this place, ſo publikely importing.</p>
+                  <p>Therefore, that we may not trouble your Excellencie with recrimina<g ref="char:EOLhyphen"/>tions in the like kinde, which we might in many reſpects multiply, we ſhall onely pray, That the Articles which are or will be ſhortly exhi<g ref="char:EOLhyphen"/>bited againſt Mr. <hi>Shaw,</hi> may by perſons in this place approved for piety and fidelity, be <note n="*" place="margin">This he will never yeeld to.</note> examined and certified, that ſo it may appear who have been the greateſt ſufferers, or who have lyen under the greateſt and juſteſt Taxations, who have been the moſt pure &amp; pious diſpenſers of holy Ordinances, who the moſt powerful and Evange<g ref="char:EOLhyphen"/>lical Preachers, who the freeſt from hypocriſie, griping, covetouſneſs, ſelf-ſeeking, time-ſerving, carnal Goſpelling, worldly mindedneſs, or undermining; who the moſt impudent oppreſſor, and oppoſer of Gods people, or belyer of the Truth, in pretending a publike charge of the Parliament, for ſupporting the one or other partie; who have been herein the moſt innocent, pious, or impartial, that they may have protection, without the teſtimony of theſe three worthy perſons (yet by your power ſuppreſt) to whom Mr. <hi>Shaw</hi> is ſo well known, and without whoſe contradiction, vote, verdict, or reſolution, (bleſ<g ref="char:EOLhyphen"/>ſed be God) we now believe his miſtaken innocencie may receive a ſentence and EXPULSION FROM THIS PLACE, where his ſpirit or impiety hath heretofore (to the diſturbance of the peace of this place) ſo powerfully prevailed.</p>
+                  <closer>
+                     <signed>And your Petitioners ſhall ever pray, <hi>&amp;c.</hi>
+                        <list>
+                           <item>Robert Overton,</item>
+                           <item>Rich. Elton,</item>
+                           <item>James Greenleſd,</item>
+                           <item>William Fugil,</item>
+                           <item>Edward Brad<g ref="char:EOLhyphen"/>ſhaw,</item>
+                           <item>Thomas Rakes,</item>
+                           <item>Robert Luddington,</item>
+                           <item>Robert Leppington,</item>
+                           <item>James Tho<g ref="char:EOLhyphen"/>mas,</item>
+                           <item>W. Elward,</item>
+                           <item>
+                              <hi>Mr.</hi> Waterhouſe,</item>
+                           <item>Edw. Rigge,</item>
+                           <item> Thomas Brown,</item>
+                           <item>John Laten,</item>
+                           <pb n="5" facs="tcp:172432:4"/>
+                           <item>Jo. Smith,</item>
+                           <item>Rich. Hogg,</item>
+                           <item>John Graves,</item>
+                           <item>John Maultby,</item>
+                           <item>Joſeph Rakes,</item>
+                           <item>Robert Winter,</item>
+                           <item>Thomas Richerſon,</item>
+                           <item>George Calter,</item>
+                           <item>Joſeph Cuſtis,</item>
+                           <item>Lancelet Gibſon,</item>
+                           <item>Edward Andrews,</item>
+                           <item>William Fugil,</item>
+                           <item>John Fugil,</item>
+                           <item>William Newhouſe,</item>
+                           <item>A. Nead,</item>
+                           <item>John Aacon,</item>
+                           <item>Abr. Stracie,</item>
+                           <item>John Daffurn.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>As I obſerve the cloſe of this Petition, how they deſire M.</hi> Shaws expul<g ref="char:EOLhyphen"/>ſion from the place, for the peace and ſafety of it; <hi>it makes me to remem<g ref="char:EOLhyphen"/>ber a ſpeech of a gallant Captain, when there was a hot debate between</hi> Cae<g ref="char:EOLhyphen"/>far'<hi>s and</hi> Pompey'<hi>s ſouldiers, he cryes out often to them,</hi> Nil niſi Caeſaris capite delato: <hi>Never ſpeak of peace (ſaith he) if Caeſars head be not taken away. So I underſtand to be the opinion of the Officers of that Gariſon, Mr.</hi> Shaw <hi>having there beaded a faction, the ſame muſt be broken, to ſettle a firm peace among the people.</hi>
+            </p>
+            <p>
+               <hi>Concerning the Articles mentioned in the Petition, they are theſe.</hi>
+            </p>
+            <p n="1">I. That M. <hi>John Shaw</hi> is reputed a very time-ſerving and ſelf-ſeeking <note place="margin">This was his conſtant courſe a little while before the Bi<g ref="char:EOLhyphen"/>ſhops were put down, as 100 will teſtifie.</note> man; witneſs his ſiding with the Biſhops in one place, and his ſpeaking againſt them in another, according to the diſpoſition of the place and perſons amongſt whom he preacht. For howſoever in the Letter to his Lords Grace of <hi>York,</hi> he profeſſeth himſelf to be for the King and Epiſ copacie; yet at the ſame time, where he ſaw the people would bear the contrary, he would ſpeak againſt the ſame things. Hence it is, that the Biſhop in his anſwer to the Letter (the original of which is likewiſe in <hi>Hull)</hi> tells him that there are ſome particulars ſpread abroad about him, and <note n="*" place="margin">Note, the Bi<g ref="char:EOLhyphen"/>ſhop would not believe him.</note> deſires to be reſolved by him. I ſhall ſet down the very words.</p>
+            <list>
+               <item>1. <hi>Whether you did ſtir and act an endeavouring to get hands to alter Epiſ<g ref="char:EOLhyphen"/>copacie, and the Government Eccleſiaſtical, contrary to your vow in your Ordination.</hi>
+               </item>
+               <item>2. <hi>Whether you did preach out of your Pulpit unto your Auditory, particularly not to chuſe Sir</hi> William Savil <hi>Knight of the Shire.</hi> Which ſurely was no Pulpit-matter, nor a theme any way tending to ſave ſouls.</item>
+               <item>3. <hi>Whether you are at preſent (whatſoever opinion you were of) conformable to his Majeſties Laws Eccleſiaſtical, wherein you know your Ordinary muſt be ſatisfied, before you can be inſtituted.</hi>
+               </item>
+            </list>
+            <p n="2">II. He hath frequently oppoſed the Gariſons Chaplains <note n="*" place="margin">He was an o<g ref="char:EOLhyphen"/>pen and known enemy to Mr. <hi>Oxenbridge,</hi> for witneſſing againſt his cor<g ref="char:EOLhyphen"/>rupt ways. Mr. <hi>Oxenbridge</hi> found him a malicious ene<g ref="char:EOLhyphen"/>my to him.</note> M. <hi>Oxenbridge</hi> and M. <hi>Canne</hi> in the exerciſe of their Miniſtery, which he hath by his ſcandalous accuſations endeavoured to aſperſe, and alſo to diſappoint them of a place to teach in, urging others in Authority to do the like.</p>
+            <p n="3">III. He hath bitterly reproached the Army, as guilty of Herefie, Blaſphemie, Schiſm; whereby divers have undoubtedly been alienated in their judgements and affections from the Army and their adherents.</p>
+            <p n="4">IIII. Upon the Scots Army coming into <hi>England,</hi> Mr. <hi>Shaw</hi> ſet up his Presbyterian Government, and prayed in theſe or the like words: <hi>Lord, there are two Armies now in the field, they both pretend thy Cauſe; its
+<pb n="6" facs="tcp:172432:5"/>
+not in man to judge, give thou a perfect let.</hi> Major <hi>John Bourn</hi> was pre<g ref="char:EOLhyphen"/>ſent when he prayed to this purpoſe.</p>
+            <p n="5">V. His underhand complaints againſt the Governour, during the <note place="margin">* He is noted generally for a moſt perfidious perſon.</note> time of his pretended friendſhip to him; his ſupplanting Mr. <hi>Stiles</hi> of the Vicarredge and Charterhouſe; whilſt with Crocodile tears he ſeemed to deplore his departure from this place: his inſinuation with perſons in place and power, with their mutual ſerving one anothers ends and aimes at <hi>London,</hi> and in the Country, are not unknown.</p>
+            <p n="6">VI. His oppreſſion of the poor, and beating of the blind man; where<g ref="char:EOLhyphen"/>in he behaved himſelf more like St. <hi>George,</hi> then like St. <hi>John.</hi> His pro<g ref="char:EOLhyphen"/>fering to forſwear what was found by the Jury, and evidenced upon Oath in open Court, are of notable, if not <note n="*" place="margin">How he hath moſt wretched<g ref="char:EOLhyphen"/>ly ſorſworn himſelf, thou ſhalt finde in its due place hereafter.</note> abominable memory.</p>
+            <p n="7">VII. His threatning a poor blind member of the Hoſpital, for com<g ref="char:EOLhyphen"/>plaining to the Parliament againſt him; his thruſting him forth of the Hoſpital by the ſhoulders, bidding him go againe to the Parliament, diſcharging him of his pay and place; although he had no power by the Donors will ſo to do: with other unchriſtian practices and oppreſſi<g ref="char:EOLhyphen"/>ons will evidence, and upon examination make appear, how Epiſcopal, how Prelatical, how Presbyteran, how Arbitrary, how Oppreſſive, how Proud and obſtinate a ſpirit he is of.</p>
+            <p>
+               <hi>Neither did the Officers of the Gariſon, and other Godly and well-affected perſons in</hi> Hull, <hi>think themſelves bound to appear in the Vindication of Mr.</hi> Canne <hi>from that falſe and ſcandalous libel, &amp; to lay open the impiety and baſe<g ref="char:EOLhyphen"/>neſs of Mr.</hi> Shaw; <hi>but the</hi> 
+               <note n="*" place="margin">M. <hi>Shaw was</hi> ſo impudent as to affirm, before col. <hi>Laſſels</hi> and <hi>M. S. Nicholas</hi> that he had a Letter from this ſame Church: the which he knew was a lye.</note> 
+               <hi>Church of Chriſt inhabiting in the ſaid Town, preſently hereupon gave in likewiſe their teſtimony and witneſs, in theſe words following.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <head>To his Excellency the Lord General <hi>Cromwel.</hi> The hum<g ref="char:EOLhyphen"/>ble Addreſs of the Church of Chriſt of <hi>Hull:</hi> for and on the behalf of Mr. <hi>John Canne</hi> Chaplain to the Gariſon.</head>
+                  <opener>
+                     <salute>May it pleaſe your Excellencie,</salute>
+                  </opener>
+                  <p>THe manifold advantages which the good people of this Nation have through the bleſſing of God received by your means, is, and ever ſhall be thankfully acknowledged by us, and is matter of encouragement to this preſent application: And we count it a great mercy, that God hath given you a heart ſo ready at all times to comply with the deſire of his people, having made you as an Angel of God, to diſcern between things and things.</p>
+                  <p>Upon which conſideration, and the ſence of our duty, we are conſtrain<g ref="char:EOLhyphen"/>ed to preſent thoſe enſuing lines to your Excellencie, in the behalf of our Chriſtian friend Mr. <hi>Canne,</hi> whom we conceive to be extremely traduced, in a Paper which we have ſeen in print, intituled, <hi>A Petition of divers well-affected perſons within the Town of Kingſton upon</hi> Hull:
+<pb n="7" facs="tcp:172432:5"/>
+of which Petition, and the perſons therein concerned, we ſhall ſay lit<g ref="char:EOLhyphen"/>tle, it being not our purpoſe to defile our ſelves with raking into the puddle of other mens faults, (though too much might be ſaid) but ſhall rather leave the examination of Mr. <hi>Shaw</hi>'s buſineſs to ſuch as ſhall be deſigned for that work. Neither ſhall we reflect any thing upon our Magiſtrates, which the ſubſcribers ſo much applaud; hoping the Su<g ref="char:EOLhyphen"/>preme Authority will ſettle ſuch a Magiſtracie in the Nation, as ſhall not be oppoſers, but encouragers of the godly party, and ſuch as will beſt ſuit with the Government of this Commonwealth. Nor ſhall we inſert how much we judge that Petition doth <note n="*" place="margin">It is ſaid Dr. <hi>Wittie</hi> was Penman of that Pamphlet, a known treache<g ref="char:EOLhyphen"/>rous enemy to the proceedings of the Army all along. This is be that kept a va<g ref="char:EOLhyphen"/>pouring when our Army went firſt into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and would lay wa<g ref="char:EOLhyphen"/>gers we ſhould be all deſtroyed</note> reflect upon your Excellencie and Councel of Officers late proceeding in the diſſolution of the late Parliament, the expreſſion being ſo obvious to every eye, and like an open Caſement lets you ſee the ſenſe thereof. It being our main in<g ref="char:EOLhyphen"/>tendment to give in our teſtimony concerning Mr. <hi>John Canne,</hi> whom they have endeavoured to render odious, not onely to your Excellencie, but to the world; and ſo at once weaken his reputation with thoſe that have been your Excellencies trueſt well-wiſhers.</p>
+                  <p>We could no longer ſit ſtill, leſt by our ſilence we ſhould be found be<g ref="char:EOLhyphen"/>trayers of his integrity. We are bold to witneſs with him, and of him, that, to our knowledge, ſince his abode amongſt us, (which hath been ſome yeers laſt paſt) he hath diligently, (and, ſo far forth as we can judge, faithfully) and laboriouſly preached the Goſpel, and opened the myſteries of the Kingdom, to the profit and comfort of thoſe that have heard him; and was at all times, and upon all occaſions, a clear owner of the work of God in this age, as foreſeeing it all along; and both pub<g ref="char:EOLhyphen"/>likely and privately manifeſted his good affection thereto, and that upon the pureſt grounds, without any ſelf-advantage thereby, as was ſuffici<g ref="char:EOLhyphen"/>ently manifeſted by his conſtant pains in preaching, though he met with great diſcouragement, his pay being detained for many months to<g ref="char:EOLhyphen"/>gether, which was all that he had for the livelyhood of himſelf and fa<g ref="char:EOLhyphen"/>mily. It would be too large to call in his owning of perſecuted Truths under Epiſcopacie, and his <note n="*" place="margin">Which was al<g ref="char:EOLhyphen"/>moſt 17 yeers, occaſioned by ſuch time-ſer<g ref="char:EOLhyphen"/>vers as was <hi>Shaw</hi> and the like.</note> long baniſhment, by reaſon thereof, from his native Country, in which time he ſuffered great hardſhip, with much patience and conſtancie; which may be a ſufficient reſtimony of his pie<g ref="char:EOLhyphen"/>ty and integrity.</p>
+                  <p>All which we leave to your Excellencies moſt pious and ſerious conſi<g ref="char:EOLhyphen"/>deration, deſiring he may be encouraged and looked upon accord<g ref="char:EOLhyphen"/>ingly; being convinced in our judgements, that he <note n="*" place="margin">M. <hi>Shaw</hi> was ſo impudent, as to affirm before the General, that the cauſe of Mr. <hi>Canne</hi>'s oppoſing him, was to get away from him the Charter-houſe. An untruth for which he hath no colour or pretence.</note> intends and ſeeks nothing, but that all injuſtice and oppreſſion may be removed, and that righteouſneſs may take place.</p>
+                  <p>This we took our ſelves bound to certifie on his behalf, as Chriſtian du<g ref="char:EOLhyphen"/>ty becoming us, and not out of any other relation which we have to him. We ſhall no further preſume upon your Excellencie, but ſubſcribe our ſelves</p>
+                  <closer>
+                     <signed>Your Excellencies humble ſervants,
+<list>
+                           <item>Robert Luddington,</item>
+                           <item>Robert Overton,</item>
+                           <item>Edward Atkinſon,</item>
+                           <item>Tim. Lumm,</item>
+                           <item>Robert
+<pb n="8" facs="tcp:172432:6"/>
+Leppington,</item>
+                           <item>John Pecket,</item>
+                           <item>Lawrence Scortreth,</item>
+                           <item>George Kitchin,</item>
+                           <item>John Ee<g ref="char:EOLhyphen"/>thel,</item>
+                           <item>Edward Andrews ſenior,</item>
+                           <item>John Daffurn,</item>
+                           <item>Boaz Britain,</item>
+                           <item>Thomas Kent,</item>
+                           <item>Ralph Caſſe,</item>
+                           <item>Elckar Pots,</item>
+                           <item>George Hill,</item>
+                           <item>George Norwood,</item>
+                           <item>Michael Hogg,</item>
+                           <item>Joſhua March,</item>
+                           <item>Anthony Dickon,</item>
+                           <item>Edward Andrews <hi>jun.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Concerning that ſcandalous Pamphlet which the Officers of the Gariſon and the Church mention in their Petitions, it is neceſſary that ſomething be added, to the end the matter may be the better underſtood.</p>
+            <p n="1">1. As it was publiſhed, ſo it was no other then a ſcandalous Libel, there being no mans hand or name put to it; onely ſaid <hi>ſubſcribed by abundance of godly and honeſt men,</hi> &amp;c. but it ſeems he that put forth the thing, was careful not to have their names known, for ſo their godlineſs and ho<g ref="char:EOLhyphen"/>neſty would have been called into queſtion.</p>
+            <p n="2">But 2. Though their names be concealed, yet <hi>(ex ungue leonem)</hi> it is eaſie to gheſs the condition of the men, by their reflecting upon his Ex<g ref="char:EOLhyphen"/>cellencie and Councel of Officers, as the Church doth very well obſerve. Their own words ſhew what they are: <hi>As for theſe three eminent and</hi> 
+               <note n="*" place="margin">He that drew up that Petiti<g ref="char:EOLhyphen"/>on, might rather be called Dr. <hi>Simple</hi> then otherwiſe: for who but a fool or worſe would ſo baſely have ſlattered firſt his Excel<g ref="char:EOLhyphen"/>lencie, and then the Speaker, with one breath, their actions be<g ref="char:EOLhyphen"/>ing ſo contrary, as light is to darkneſs.</note> 
+               <hi>faith<g ref="char:EOLhyphen"/>ful Paſriots</hi> (note Reader the men) <hi>the Speaker of the late Parliament, Ba<g ref="char:EOLhyphen"/>ron</hi> Thorp, <hi>and Sir</hi> Henry Vane, <hi>whom be unworthily taxeth,</hi> &amp;c. <hi>their un<g ref="char:EOLhyphen"/>tainted Honours may juſtly require ſatisfaction,</hi> &amp;c. And a little after, refer Mr. <hi>Shaw</hi> to the teſtimony of theſe men, <hi>being well known to their Honors.</hi> Do not theſe ſhew themſelves to be well-affected to the preſent power? But I ſhall not wring this filthy ſore too hard.</p>
+            <p n="3">3. What little honeſty, and leſs godlineſs, theſe men have, may eaſily appear by their own words. For thus they ſay: <hi>Whoſe inveterate wrath to the very calling of the Miniſtery in England, is known to be ſuch, that even the conſideration of that Ordinance of God, is enough at any time to put him into a</hi> 
+               <note n="*" place="margin">A Doctor like expreſſion, and worded brave<g ref="char:EOLhyphen"/>ly. But ſuppoſe the Dr. ſeeing his ignorance and vanity thus diſcovered, ſhould run him<g ref="char:EOLhyphen"/>ſelf into a fury, the queſt. then would be, whe<g ref="char:EOLhyphen"/>ther any other Doctor had skil to make him ci<g ref="char:EOLhyphen"/>ther witty or ſo<g ref="char:EOLhyphen"/>ber after. I leave this to Dr. <hi>Primroſe</hi> his judgement.</note> 
+               <hi>fury.</hi> If the Author of that Petition, and the ſubſcribers to it, had not been ſtark blinde, and groſly ignorant of a <hi>Goſpel-Miniſtery,</hi> and of the glorious light which ſhines now thorow the nation, they would never have made themſelves ſo contemptible &amp; &amp; ridiculous to the world. For who but a company of blinde people, Popiſh and ſuperſtitious, will now durſt appear in the behalf of the <hi>earthly and carnal Miniſtery of Eng<g ref="char:EOLhyphen"/>land,</hi> as knowing that it is not Mr. <hi>Canne</hi>'s opinion alone, but it is gene<g ref="char:EOLhyphen"/>rally held and profeſt by the people of God everywhere, that the ſame, <hi>viz.</hi> their <hi>National Miniſtery</hi> (as derived from the Pope and Prelates) is unlawful and Antichriſtian, a wicked plant, and ſhortly to be pluckt up by the root? He that toucheth the week of a candle, betters and mends the light, but burns and blacks his own fingers: ſo theſe men, whereas they thought to have diſhonoured Mr. <hi>Canne,</hi> they have added much to his reputation and credit, and rendered themſelves to the world, as a company of ignorant, ſuperſtitious, and blinde people: For what man that is ſpiritual, reading their words, but muſt needs conclude thus, or to this purpoſe: <hi>The Doctor that drew this, was very ſimple, and may for his work ſake be fitly ſtiled</hi> Dr. SIMPLE. <hi>And the ſubſcribers to it, as ig<g ref="char:EOLhyphen"/>norant
+<pb n="9" facs="tcp:172432:6"/>
+and blind as the Doctor. All of them ſtill in Babylon, under the yoke of Antichriſt and deep ſuperſtition.</hi>
+            </p>
+            <p n="4">4. Though we finde not their names to the printed Painphlet, yet we may eaſily gheſs who the perſons are, by this expreſſion; Mr. <hi>Shaw hath been a pious and painful labourer in the Miniſtry among us.</hi> For his piety, I leave that to the Teſtimony and witneſs here aſſerted: But that he is <hi>a painful labourer,</hi> thoſe that hear him, know the contrary, as his matter to be meerly formal, legal, liveleſs, not in the demonſtration of the Spirit and power of God. Beſides, it is not unknown, that the ſtories, and low things which he hath, is ſtill one and the ſame; changes often his Text, but not the matter; Like a ſcare-crow in a Garden or field to fright Birds: becauſe it moves not, the Birds are not afraid of it: ſo his mat<g ref="char:EOLhyphen"/>ter being colworts often ſod, nothing new but what they have heard him deliver <note n="*" place="margin">Ask <hi>Robert Wilſon</hi> how often he hath heard him to preach one and the ſame thing over and over,</note> 10. 20. 100. times before; its rather a burthen to the people then any way profitable. If the ſubſcribers had not been either ſome ig<g ref="char:EOLhyphen"/>norant people as do not know what a painful labourer in the Miniſtry is, or ſome that are baſely by aſſed by a corrupt faction in the Town, they would not have ſet their hands to a thing ſo known untrue. For he hath not to this day opened the great ſecrets and myſteries of the Goſpel, but rather been an enemy thereunto, and to ſuch as do believe and embrace the ſame. But to proceed to further teſtimony.</p>
+            <p>In the <hi>ſixth Article</hi> before, there is mention made of Mr. <hi>Shaw his beat<g ref="char:EOLhyphen"/>ing a blind man, and proffering to forſwear the ſame.</hi> As this is a remarka<g ref="char:EOLhyphen"/>ble thing, and a buſineſs of high concernment; ſo it is neceſiary that it be plainly and truly related.</p>
+            <p>When Mr. <hi>Shaw</hi> was before his <hi>Exceilencie,</hi> in the preſence of <hi>Major</hi> 
+               <note place="margin">* He layed his hand on Major General <hi>Har<g ref="char:EOLhyphen"/>riſons</hi> ſhoulder, to ſhow what he did, as one<g ref="char:EOLhyphen"/>ly a bare touch<g ref="char:EOLhyphen"/>ing of him, and profeſſed be did no more to the blind man, then be did to him.</note> 
+               <hi>General Harriſon,</hi> and <hi>Colonel Tomlinſon:</hi> ſo again afterward to <hi>Colonel Laſſels</hi> and Mr. St. <hi>Nicholas,</hi> he made moſt dreadful imprecations; as taking God to witneſs, and wiſhing that he might not ſee the face of God, or go out of the room, if he did beat the man, puſh him, or throw him down, but onely laying his hand ſoftly on his ſhoulders, deſired, or bid him depart: this he proteſted and took God to witneſs was all that he did. Mr. <hi>Canne</hi> told him at the ſame time that he <hi>trembled to hear him,</hi> as know<g ref="char:EOLhyphen"/>ing that he forſwore himſelf, and what he ſaid was againſt his own know<g ref="char:EOLhyphen"/>ledge and conſcience, a ſinning preſumptuouſly, and with a high hand. And that this is ſo, to wit, that Mr. <hi>Shaw</hi> in all his proteſtations, impre<g ref="char:EOLhyphen"/>cations, execrations, hath ſpoken falſely, we ſhall make it evident by the teſtimonies and proofes following. The form of the Inditement which was found by the <note n="*" place="margin">Note, howſo<g ref="char:EOLhyphen"/>ever thoſe of the Jury were Mr. Shaws chiefeſt friends, yet could not but finde him guilty, the proof being ſo full and clear.</note> Jury againſt <hi>Mr. Shaw</hi> is thus.</p>
+            <pb n="10" facs="tcp:172432:7"/>
+            <floatingText type="letter">
+               <body>
+                  <p>AT the General Seſſions of the Publike peace holden at <hi>Kingſton</hi> upon <note place="margin">Kingſton <hi>upon</hi> Hull.</note> 
+                     <hi>Hull,</hi> upon Thurſday the one and twentieth day of <hi>April,</hi> in the yeer of our Lord One thouſand ſix hundred fifty three, in the Guild-hall of the ſaid Town, before <hi>John Rogers</hi> Maior of the Town of <hi>Kingſton</hi> upon <hi>Hull, William Lister</hi> Eſquire, Recorder of the ſame Town, <hi>Thomas Raikes, Henry Barnard, Nicholas Denman, Joſeph Blaids, William Pop<g ref="char:EOLhyphen"/>ple, William Peck, William Dobſon, Francis Dewick, John Raye, Richard Wood,</hi> and <hi>Lancelot Roper,</hi> Aldermen of the ſame Towne, Keepers of the publike peace, and alſo Juſtices by the Keepers of the Liberty of <hi>England,</hi> by Authority of Parliament, to hear and determine divers Felonies, Treſpaſſes, and other miſdemeanours committed within the Town and County of <hi>Kingſton</hi> upon <hi>Hull</hi> aforeſaid: Amongſt other things it was then preſented <note n="*" place="margin">Quere, <hi>How thoſe men of the Jury upon Oath could finde this Inditement a<g ref="char:EOLhyphen"/>gainſt M.</hi> Shaw, <hi>and yet ſay in their Petition to his Excellencie, that they have</hi> not known him guilty of any ſcandalous a<g ref="char:EOLhyphen"/>ctions which might deſerve juſtice to paſs againſt him. <hi>The General is too wiſe to be deceived by ſuch men.</hi>
+                     </note> upon the Oath of <hi>Robert Peaſe, Wil<g ref="char:EOLhyphen"/>liam Ramſden, Richard Wilſon, John Crowther, Robert Moor, Auguſtine Jen<g ref="char:EOLhyphen"/>kinſon, Marmaduke Pattiſon, Martial Ripley, Samuel Lightfoot, James Net<g ref="char:EOLhyphen"/>tleton, Thomas Dewicke, John Harris, Richard Wood, Marmaduke Thompſon,</hi> and <hi>Robert Winter,</hi> lawful and honeſt men of the ſaid Town of <hi>Kingſton</hi> upon <hi>Hull,</hi> That <hi>John Shaw</hi> of the Hoſpital called <hi>Gods-Houſe-Hoſpi<g ref="char:EOLhyphen"/>tal,</hi> neer <hi>Kingſton</hi> upon <hi>Hull,</hi> in the County of <hi>Kingſton</hi> upon <hi>Hull</hi> Clerk, upon the Seventh day of <hi>February,</hi> in the yeer of our Lord One thou<g ref="char:EOLhyphen"/>ſand ſix hundred fifty and two, at the <hi>Gods-houſe-</hi>Hoſpital in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Kingſton</hi> upon <hi>Hull</hi> aforeſaid, by force of Arms, to wit, with hands, clubs, ſtones, and knives, in and upon <hi>Ellerker Potts</hi> of <hi>Kingſton</hi> upon <hi>Hull</hi> in the County of <hi>Kingſton</hi> upon <hi>Hull</hi> aforeſaid, Baker, did make an aſſault, and him beat, wound, and evil intreat, and other enormities of<g ref="char:EOLhyphen"/>fered, againſt the publike peace, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <signed>Witneſſes ſworn:
+<list>
+                           <item>Ellerker Potts,</item>
+                           <item>Joſhua March,</item>
+                           <item>Will: Wakeley,</item>
+                           <item>Reynold Starr,</item>
+                        </list>
+Examined by <hi>Char. Vaux,</hi> Clerk of the Peace.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>What theſe men ſwore, as to the fact, and the manner how it was in the par<g ref="char:EOLhyphen"/>ticulars, is faithfully reported in a Letter ſent to his Excellencie by an honeſt man, and one of the Jury. The Letter is thus, word for word.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Excellencie,</salute>
+                  </opener>
+                  <p>I Finde a great lothneſs upon my ſpirit to diſturb your Excellencie in your more publike and weighty Tranſactions, by the interpoſure of any particular concernments; yet for the great love I bear to Righ<g ref="char:EOLhyphen"/>teouſneſs and Truth, I cannot be ſilent when at any time I behold (in my weak apprehenſion) any ſtain or blot thereupon. And moreover, that which emboldens me at this time to trouble your Excellencie with the enſuing diſcourſe, is, That I underſtood by Mr. <hi>Canne</hi> that of late there
+<pb n="11" facs="tcp:172432:7"/>
+hath been ſome debates (before your Excellencie) betwixt Mr. <hi>Canne</hi> and Mr. <hi>Shaw,</hi> concerning the blinde men, and their Tryal in this Court; and that at that time Mr. <hi>Shaw</hi> did <note n="*" place="margin">Many horrible lyes he then told and no marvel if ſome there preſent did (at leaſt in part) be<g ref="char:EOLhyphen"/>lieve them con<g ref="char:EOLhyphen"/>ſidering how often he call'd God to witneſs, and with what impudence and boldneſs he a<g ref="char:EOLhyphen"/>verred thoſe untruths which he ſpake.</note> calumniate Mr. <hi>Canne</hi> thereabouts, (which is very probable) for it is generally reported here, that Mr. <hi>Canne</hi> did ask Mr. <hi>Shaw</hi> forgiveneſs before your Excellencie, for his defama<g ref="char:EOLhyphen"/>tion of him; which is thought to come from Mr. <hi>Shaw,</hi> but doth much rejoyce and lift up Mr. <hi>Shaw</hi>'s friends, and aſtoniſh Mr. <hi>Canne</hi>'s, it comes forth with ſuch confidence. Now Providence ſo ordered, that when Mr. <hi>Shaw</hi> and the blinde man had their Tryal in our Court, <hi>viz.</hi> the 21 of <hi>April</hi> laſt, that I was called to be of the Jury, and am thereupon deſired to declare the truth of the carriage of the whole buſineſs that was in Court that day, to your Excellencie; which (by Gods aſſiſtance) I ſhall do, ſo far as I remember, or do call to minde, in every particular: <hi>viz.</hi>
+                  </p>
+                  <p>The day above-ſaid, one <hi>Elleker Potts</hi> prefers an Inditement againſt Mr. <hi>John Shaw</hi> Clerk, for that he the 7 of <hi>February</hi> 1652. did aſſault and beat the ſaid <hi>Ellerker Potts,</hi> &amp;c. which to make good, the ſaid <hi>Ellerker,</hi> with three more, were ſworn, two whereof were blinde men, but gave in evidence what they heard ſeverally; which was, That the day above<g ref="char:EOLhyphen"/>ſaid being at the Charter-houſe or Gods-houſe, and there diſcourſing with Mr. <hi>Shaw</hi> concerning their priviledges there, Mr. <hi>Shaw</hi> fell into a great paſſion and rage againſt <hi>Ellerker Potts,</hi> and, as they ſuppoſed, caſt him violently often to the ground, thrice at the leaſt; and they heard a womans voice ſay, <hi>Husband, what do you mean to kill the man?</hi> (which woman they believe was Miſtreſs <hi>Shaw;)</hi> and likewiſs that they heard <hi>Ellerker Potts</hi> ſon cry aloud, <hi>Oh wo is me</hi> (or to that purpoſe) <hi>Mr.</hi> Shaw <hi>will kill my father.</hi> Theſe two being heard and withdrawn, we called in the ſeeing man, one <note n="*" place="margin">There was another took his Oath before the Governour of <hi>Hull,</hi> that he ſaw Mr. <hi>Shaw</hi> to throw him down.</note> 
+                     <hi>William Wakely,</hi> who was that day em<g ref="char:EOLhyphen"/>ployed by Mr. <hi>Shaw;</hi> whoſe teſtimony was the ſame with them before, <hi>viz.</hi> that at the time aforeſaid he was preſent, and did <note n="*" place="margin">This teſtimo<g ref="char:EOLhyphen"/>ny will riſe up in judgement againſt him.</note> 
+                     <hi>ſee Mr.</hi> Shaw <hi>take</hi> Ellerker Potts <hi>by the ſhoulders, and throw him violently on the ground; and as he got up, caſt him down again three times: and that Miſtreſs</hi> Shaw <hi>came and took Mr.</hi> Shaw <hi>by the arm, and ſaid, Fie, husband, do you mean to kill the man? and alſo the boy, as before recited. Whereupon, the Indice<g ref="char:EOLhyphen"/>ment was found.</hi> I ſhall not further trouble your Excellencie at pre<g ref="char:EOLhyphen"/>ſent, then humbly to crave leave to ſubſcribe my ſelf,</p>
+                  <closer>
+                     <signed>Your Excellencies humble ſervant, and cordial well-wiſher. <hi>Robert Winter.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>You ſhall have a Black-ſmith that is uſed to the frequent and dayly handling of Iron, hold a hot fire-coal in his hand and laugh, whilſt ano<g ref="char:EOLhyphen"/>ther would roar out: So tender are ſome men, that their hearts will ſmite them for a little: but this man hath ſo accuſtomed himſelf to lying, he is ſo hardened in it, that his proteſtations, imprecations, execrations,
+<pb n="12" facs="tcp:172432:8"/>
+though never ſo falſe, are not (as it ſeems by this) ſo much as felt or ap<g ref="char:EOLhyphen"/>prehended by him.</p>
+            <p>And here it may not be forgotten, as to demonſtrate how <note n="*" place="margin">Another noto<g ref="char:EOLhyphen"/>rious lye of his (which he fa<g ref="char:EOLhyphen"/>thered on Mr. <hi>Moor)</hi> was this <hi>viz.</hi> That the three blind men ſhould come to Mr. <hi>Moor,</hi> and there confeſs that they had ex<g ref="char:EOLhyphen"/>tremely wrong<g ref="char:EOLhyphen"/>ed Mr. <hi>Shaw;</hi> and deſired him that he would ſtand their friend to regain Mr. <hi>Shaws</hi> fa<g ref="char:EOLhyphen"/>vour: for o<g ref="char:EOLhyphen"/>therwiſe they thought he would take a<g ref="char:EOLhyphen"/>way their pay, in that they had ſo highly offend<g ref="char:EOLhyphen"/>ed him: this he affirmed to the General; and that Mr. <hi>Moor</hi> would juſtifie it.</note> accuſtomed he is to lying: when he proteſted to Colonel <hi>Laſſels</hi> and Mr. St. <hi>Nicholas,</hi> that he did not beat the blind-man, puſh him, nor thruſt him downe; he affirmed withall, that <hi>he had a Letter from Mr.</hi> Luddingtons <hi>people, which was to clear him of the ſaid fact, and blaming the blind-man, for his proceeding againſt him:</hi> and to make this good, he took a Letter out of his pocket, and ſhewed it. Mr. <hi>Canne</hi> asked whoſe hands were to it: he an<g ref="char:EOLhyphen"/>ſwered, he would not tell him; but there was the Letter. Now how falſe<g ref="char:EOLhyphen"/>ly he ſpake in this, let all men judge, by this which follows.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>Whereas we have ſeen in a Letter of yours to the Governour, dated the 7. of <hi>July</hi> theſe words, <hi>viz. That Mr.</hi> John Shaw <hi>affirmed that he had under the hands of Mr.</hi> Luddingtons <hi>people, that they did condemn the blind man and clear him;</hi> We do hereby certifie that he never had anything under the hands of the Church (which we ſuppoſe he calls Mr. <hi>Ludding<g ref="char:EOLhyphen"/>tons people)</hi> nor from any particular member thereof. But we further affirm, that we did, and we do judge the blind men to be wronged, as ap<g ref="char:EOLhyphen"/>peared in open Court.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Robert Luddington,</item>
+                           <item>Robert Overton,</item>
+                           <item>John Pecket,</item>
+                           <item>Ed. Atkinſon,</item>
+                           <item>T. Lumm,</item>
+                           <item>Lawrence Scortreth,</item>
+                           <item>George Kitchin,</item>
+                           <item>John Bethel,</item>
+                           <item>John Dafforn,</item>
+                           <item>Boaz Brittain,</item>
+                           <item>John Beſs,</item>
+                           <item>Ant. Dikſon,</item>
+                           <item>Richard Newton,</item>
+                           <item>Edw. Andrew ſen. Ralf Caſs,</item>
+                           <item>John Mudie,</item>
+                           <item>George Norwood,</item>
+                           <item>Michael Hogg.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The thing here is not onely denyed, and Mr. <hi>Shaw</hi> proved a falſe ſpeaker; but withal, the whole Church witneſſeth againſt him: and for the blind men, whoſe teſtimony I am ſure will be received and cre<g ref="char:EOLhyphen"/>dited before Mr. <hi>Shaw</hi> and his party, who endeavour to countenance and bear him out in lying, oppreſſion, and other ſinful practiſes.</p>
+            <p>One thing more I muſt here give a hint of, concerning a writing which Mr. <hi>Shaw</hi> reports that Colonel <hi>Laſſels</hi> and Mr. St. <hi>Nicholas</hi> gave him under their hands, the which writing he h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h <note n="*" place="margin">He gave out copies of it at <hi>Stilton</hi> in his way home, and ſo hath done all the Country o<g ref="char:EOLhyphen"/>ver. M. <hi>Canne</hi> not knowing of any writing he he had, till af<g ref="char:EOLhyphen"/>terward.</note> made a great improvement of, to the publick diſgrace of Mr. <hi>Canne</hi> everywhere. Now I ſhall not meddle with the Gentlemen at all; they beſt know what they did, and why. This onely I teſtifie in the behalf of Mr. <hi>Canne,</hi> that in the preſence of Mr. <hi>Dove,</hi> Mr. <hi>James Nelthrop,</hi> and Colonel <hi>Gill,</hi> Mr. <hi>Canne</hi> affirmed to Colonel <hi>Laſſels,</hi> that when Mr. <hi>Shaw</hi> and he were with him, he offered to prove whatſoever he had written againſt Mr. <hi>Shaw,</hi> and did not deny or decline any thing that he had publiſhed, but ſtood firm to the juſtification of all, and every whit that was in the Book.</p>
+            <p>This Mr. <hi>Canne</hi> affirmed at firſt, to Colonel <hi>Laſſels</hi> and Mr. S. <hi>Nicholas,</hi> and to Colonel <hi>Laſſels</hi> in the hearing of the three Gentlemen named be<g ref="char:EOLhyphen"/>fore:
+<pb n="13" facs="tcp:172432:8"/>
+and howſoever he leaves the proſecution of the buſineſs againſt Mr. <hi>Shaw</hi> to others more concerned in it, yet he hath ſeen and known, ſince the publiſhing of that book, ſo much lying, for ſwearing, and other ungodly actions done by Mr. <hi>Shaw,</hi> as he thinkes him to be a man far worſe and more corrupt then he did before, and is perſwaded that his ſins are now full and ripe, and that God will ſpeedily lead him forth with the workers of Iniquity. And in this he is the more confirmed by that ſaying of <hi>Solomon, Though hand joyn in hands, the wicked ſhall not be un<g ref="char:EOLhyphen"/>puniſhed; but the ſeed of the righteous ſhall be delivered,</hi> Prov. 11. 21.</p>
+            <p>Moreover, not onely is the thing thus paſt againſt him by witneſſes ſworn, and the <hi>Inditement</hi> found in Court; But his own conſcience (though his mouth forſweares it) hath ſince openly declared him guil<g ref="char:EOLhyphen"/>ty. And this appeares as clear as the Sun at noon-day: for why elſe hath he removed the buſineſs, from <hi>Hull</hi> to <hi>Weſtminſter,</hi> but in hope that the men whom he hath wronged, being blind, and ſo not fit to travel, and poor, and ſo not in a capacitie to follow the ſuit ſo far againſt him, he ſhall by this device eſcape the laſh of Juſtice?</p>
+            <p>Without doubt, had he not been conſcious to the evil of the fact, he would never have removed it from that town, where he hath ſo many friends to act for him, as would acquit him right or wrong if they could. But he and his partakers there ſee the fact to be ſo notorious, as that place is not for their turn, but ſomewhere elſe (a great way off) muſt be choſen, where the truth may not be ſo openly known and manifeſted againſt him.</p>
+            <p>Howſoever I queſtion not, but as the Lord hitherto all <note n="*" place="margin">Thus the un<g ref="char:EOLhyphen"/>truths which he ſpake to his Ex<g ref="char:EOLhyphen"/>cellency, his publiſhing a ſcandalous, pa<g ref="char:EOLhyphen"/>per againſt Mr. <hi>Can,</hi> his inſul<g ref="char:EOLhyphen"/>tations &amp; boaſt<g ref="char:EOLhyphen"/>ing in Town and Country, of a victory which he bad gotten, and cleared of all things laid to his charge, is by the juſt hand of God, matter of ſhame &amp; in<g ref="char:EOLhyphen"/>famie to him.</note> along, hath turned all his crafty and evil deſignes upon his owne head, and brought him to ſhame by his owne doings, according to that in the Poet:</p>
+            <lg>
+               <l>—Non eſt lex juſtior ulla,</l>
+               <l>Quam necis artifices arte perire ſua.</l>
+            </lg>
+            <p>He will do the like in this. For I know Judge <hi>Rolls</hi> to be a man of ſo much juſtice, conſcience, and experience, as Mr. <hi>Shaw</hi> will not finde him to be ſuch a man as he hath formerly found ſome of his old Maſters, <hi>viz.</hi> as corrupt and rotten as himſelf; but will ſend him back, and the buſi<g ref="char:EOLhyphen"/>neſs likewiſe, to its proper place, where things may be fully examined, the truth known, and the offender receive his due and condign puniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>There are ſeveral other complaints in my hand, as charges of high and great miſdeanours againſt Mr. <hi>Shaw;</hi> which I might have pub<g ref="char:EOLhyphen"/>liſhed, the witneſſes being ready upon oath to make good the ſame, <hi>viz.</hi> His <note n="*" place="margin">This Edward <hi>Andrews</hi> will teſtifie.</note> oppreſſion, <note n="*" place="margin">M. <hi>Shepherd</hi> by woful expe<g ref="char:EOLhyphen"/>rience knows this to be true and others too.</note> extortion, <note n="†" place="parend">Mr. <hi>Ramſdel</hi> can ſpeak out to this, whom Mr. <hi>Shaw</hi> diſ<g ref="char:EOLhyphen"/>ſwaded from taking the En<g ref="char:EOLhyphen"/>gagement.</note> underhand tampering with men to alie<g ref="char:EOLhyphen"/>nate and diſaffect them from the preſent Government, and cauſing faction and diviſions among the Magiſtrates, and diſturbing the peace of the whole Town: but I ſhall forbear here to mention them, becauſe it is expected, that thoſe who are in authority, for the love which they
+<pb n="14" facs="tcp:172432:9"/>
+bear to truth and righteouſneſs, and a holy zeal to ſuppreſs incendia<g ref="char:EOLhyphen"/>ries and deceitful men, will grant a commiſſion to ſome in that Coun<g ref="char:EOLhyphen"/>try, men of known integrity and honeſty, not ingaged to carry on his deſigne, to examine theſe particulars, that the truth may be known, and the man no longer ſuffered in his inſolencies, and born out as he hath been, to abuſe the beſt and trueſt friends of the State, of his Excellen<g ref="char:EOLhyphen"/>cie, the Army, and people of God.</p>
+            <p>And for this end, I underſtand there are ſome here, in the behalf of the Gariſon, the Church, and the honeſt and good people of the Town, as endeavouring to procure ſuch a Commiſſion, as knowing well, if the ſame ſhall be granted, the man will be proved worſe then they have yet declared, either to his Excellency or any other againſt him.</p>
+            <p>I ſhall conclude this diſcourſe, with a ſtory ſutable to the ſubject. When King <hi>Richard</hi> had taken in a skirmiſh, <hi>Philip</hi> Biſhop of <hi>Bevois,</hi> a deadly enemy of his, he cauſed him to be clapt up in priſon, caſting Iron bolts upon his heel. Being complained of to the Pope, he writ to the King not to detain his dear ſon, an eccleſiaſtical perſon, a ſhepherd of the Lords; but to ſend him back to his flock: Hereupon the King ſent his Ambaſſadours to the Pope, wiſhing them to uſe the words of the Patriarch to their Father <hi>Jacob,</hi> when they had ſold their brother <hi>Jo<g ref="char:EOLhyphen"/>ſeph,</hi> and dyed his party coloured-coat in the blood of beaſts, ſaying, <hi>Hanc invenemus vide utrum tunica filii tui ſit an non? This we have found</hi> (and ſhewing the Armour with which he was taken) <hi>ſee whether it be the Coat of thy Son or no?</hi> No (replyed the Pope) its not the Coat of my Son; nor of my brother, but ſome Imp of <hi>Mars;</hi> let him procure his own freedome if he can. The application I leave to the Reader.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
